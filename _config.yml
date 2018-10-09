@@ -519,7 +519,7 @@ gitment:
   cleanly: false # Hide 'Powered by ...' on footer, and more
   language: # Force language, or auto switch by theme
   github_user: zzzze
-  github_repo: https://github.com/zzzze/blog-comment.git
+  github_repo: blog-comment
   client_id: a53204e408bd79f86225
   client_secret: ac0bf1bdc688a9a9c2702f83d467db7dee931211
   proxy_gateway: # Address of api proxy, See: https://github.com/aimingoo/intersect
